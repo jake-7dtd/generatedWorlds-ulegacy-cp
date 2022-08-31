@@ -1396,7 +1396,7 @@
   <decoration type="model" name="part_appliance_pile_01" position="2874,37,-2563" rotation="3" />
   <decoration type="model" name="part_streetlight_single_diagonal" position="2949,46,-2604" rotation="0" />
   <decoration type="model" name="rwg_tile_gateway_cap" position="3773,34,-2852" rotation="3" />
-  <decoration type="model" name="trader_ellen" position="3786,36,-2758" rotation="0" />
+  <decoration type="model" name="trader_ellen" position="3786,20,-2758" rotation="0" />
   <decoration type="model" name="part_trader_tile_filler_03" position="3773,35,-2844" rotation="2" />
   <decoration type="model" name="rwg_tile_asiantown_intersection" position="1505,32,-868" rotation="1" />
   <decoration type="model" name="xcostum_Asia_Restaurant_02(by_Valconian)" position="1520,38,-862" rotation="2" />
